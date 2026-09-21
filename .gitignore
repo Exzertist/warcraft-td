@@ -1,0 +1,37 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and generated project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Local diagnostics and temporary work
+*.log
+work/
+
+# The embedded URP package is required for the Unity 6.3 metadata workaround,
+# but its optional documentation, tests and samples are not part of the game.
+WarcraftTD/Packages/com.unity.render-pipelines.universal/Documentation~/
+WarcraftTD/Packages/com.unity.render-pipelines.universal/Samples~/
+WarcraftTD/Packages/com.unity.render-pipelines.universal/Tests/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
